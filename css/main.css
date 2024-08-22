@@ -1,0 +1,144 @@
+/*      
+@font-face {
+font-family: '';     
+src: local ('');
+src: url() format();
+font-style: '';
+font-weight: '';
+}   
+*/
+
+/*
+.class1 {                                               montserrat medium
+    font-family: 'Montserrat', sans-serif;
+    color: #f7f7f7;
+    font-style: "normal";
+    font-weight: "500";
+    font-size: "";
+}
+*/
+
+
+.raleway-regular {                                                   /*  raleway regular 400  */
+    font-family: 'Raleway', sans-serif;
+    color: "";
+    font-style: "italic";
+    font-weight: "400";
+    font-size: "";
+}
+
+.raleway-light {                                                   /*  raleway light 300  */
+    font-family: 'Raleway', sans-serif;
+    color: "";
+    font-style: "bold";
+    font-weight: "300";
+    font-size: "";
+}
+
+.roboto-light {                                                /*  roboto light 300  */
+    font-family: 'Roboto Slab', serif;
+    color: "";
+    font-style: "normal";
+    font-weight: "300";
+    font-size: ""; 
+}
+
+
+/*  este es el de google fonts  font-family: 'Raleway', sans-serif;  */
+/*  este es el de google fonts  font-family: 'Roboto Slab', serif;  */
+
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    text-align: center;
+}
+
+
+.logo-position {
+    margin-left: 2%;
+}
+
+.ajuste-sldr {
+    margin: 0;
+}
+
+.scnd-adj-sldr {
+    padding: 0 !important;
+}
+
+.mini-botones {
+    display: inline-flex;
+    align-items: center;
+}
+
+.centrado {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.height-uno {
+    height: 520px;
+}
+
+.height-dos {
+    height: 520px;
+}
+
+.height-tres {
+    height: 520px;
+}
+
+.height-cuatro {
+    height: 520px;
+}
+
+
+
+/*  COLORES FONDO  */
+
+.fondo-one {
+    background-color: #000000;
+}
+
+.fondo-two {
+    background-color: #ffffff;
+}
+
+.fondo-three {
+    background-color: blue;
+}
+
+.fondo-four {
+    background-color: red;
+}
+
+
+
+/*  COLORES TEXTO  */
+
+.texto-one {
+    color: #aaaaaa;
+}
+
+.texto-two {
+    color: #444444;
+}
+
+.texto-three {
+    color: yellow;
+}
+
+.texto-four {
+    color: green;
+}   
+
+
+
+/*  GENERALES  */
